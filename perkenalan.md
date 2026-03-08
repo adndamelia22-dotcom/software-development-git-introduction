@@ -1,0 +1,5 @@
+- nama lengkap : Adinda Amelia Putri
+- NPM : 2313020094
+- Program Studi : Teknik Informatika
+- minat bidang IT : Web Developer
+- harapan : Saya berharap melalui mata kuliah ini dapat memahami dasar-dasar pengembangan perangkat lunak. Selain itu, saya juga berharap dapat meningkatkan kemampuan dalam menganalisis masalah dan menemukan solusi berbasis teknologi.
